@@ -1,0 +1,1 @@
+The purpose of this note is to make this directory non-empty so that it could not be skipped.
