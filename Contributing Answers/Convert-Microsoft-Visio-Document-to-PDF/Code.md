@@ -10,7 +10,7 @@ Aspose.Diagram.Diagram dg = new Diagram(dirPath + "SampleVisioDiagram.vsdx");
 dg.Save(dirPath + "OutputVisioDiagram.pdf", SaveFileFormat.PDF);
 ```
 
-#Java
+# Java
 ```js
 // Path for input and output documents directory.
 String dirPath = "D:/Download/";
